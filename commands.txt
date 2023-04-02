@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Arpit\Downloads\Multiple disease prediction system\multiple_disease_predict.py"
